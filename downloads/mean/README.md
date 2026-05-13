@@ -1,4 +1,4 @@
-# config
+# mean
 
 ---
 
@@ -6,8 +6,8 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `config.yaml` |
-| **Size** | .06 MB |
+| **Original File** | `mean.npy` |
+| **Size** | .05 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **YES** |
 
@@ -17,13 +17,13 @@
 
 | File | Link |
 |------|------|
-| `config.zip` | [Download](https://github.com/mmdmatin2003-coder/downloader/raw/main/downloads/config/config.zip) |
+| `mean.zip` | [Download](https://github.com/mmdmatin2003-coder/downloader/raw/main/downloads/mean/mean.zip) |
 
 ---
 
 ## How to Extract
 
-1. **Open** `config.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+1. **Open** `mean.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 2. **Extract** the file
 3. Enter the password when prompted
 
