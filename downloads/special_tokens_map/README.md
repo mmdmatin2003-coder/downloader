@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `special_tokens_map.json` |
 | **URL** | https://huggingface.co/Aero-Ex/KIMODO-Meta3_llm2vec_NF4/resolve/main/special_tokens_map.json |
-| **Date** | 2026-05-13 11:54:38 UTC |
+| **Date** | 2026-05-13 14:33:56 UTC |
 | **Status** | **FAILED** |
 
 ---
