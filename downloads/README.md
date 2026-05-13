@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [FireRed-Image-Edit-1.1-transformer-q4_1](./FireRed-Image-Edit-1.1-transformer-q4_1)
+- [LICENSE](./LICENSE)
 - [SMPLX_NEUTRAL](./SMPLX_NEUTRAL)
 - [chat_template](./chat_template)
 - [config](./config)
