@@ -6,6 +6,7 @@
 - [chat_template](./chat_template)
 - [config](./config)
 - [huggingface_hub-1.14.0-py3-none-any](./huggingface_hub-1.14.0-py3-none-any)
+- [klein_snofs_v1_3](./klein_snofs_v1_3)
 - [llm2vec_config](./llm2vec_config)
 - [mean](./mean)
 - [merges](./merges)
